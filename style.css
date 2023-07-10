@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    background-color: gray;
+}
+
+.menu{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+}
+
+.banner-cointainer{
+    background-image: url("asset/image/background.jpg");
+}
